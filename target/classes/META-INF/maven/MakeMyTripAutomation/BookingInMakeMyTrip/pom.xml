@@ -2,13 +2,6 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-<<<<<<< HEAD
-	<groupId>MyStoreProjectPortpolio</groupId>
-	<artifactId>MyStoreProjectPortpolio</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<dependencies>
-	<!-- Source:https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-=======
 	<groupId>MakeMyTripAutomation</groupId>
 	<artifactId>BookingInMakeMyTrip</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -17,18 +10,13 @@
 
 		<!-- Source:
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
->>>>>>> 001906ea83eae31d0811eca4b675415ed3bfad75
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>4.40.0</version>
 			<scope>compile</scope>
 		</dependency>
-<<<<<<< HEAD
-		
-=======
 		<!-- TestNG -->
->>>>>>> 001906ea83eae31d0811eca4b675415ed3bfad75
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
@@ -43,14 +31,11 @@
 			<version>5.9.2</version>
 		</dependency>
 
-<<<<<<< HEAD
-=======
 		<!-- Extent Reports -->
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
 			<version>5.1.1</version>
 		</dependency>
->>>>>>> 001906ea83eae31d0811eca4b675415ed3bfad75
 	</dependencies>
 </project>
